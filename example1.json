@@ -1,0 +1,22 @@
+{
+    "application": "logger-project",
+    "history": [
+        {
+            "application": "logger-project",
+            "startTime": "2024-08-24T08:46:31.151933400Z",
+            "elapsed": "2",
+            "className": "ExampleService",
+            "methodName": "transform",
+            "parameters": [
+                {
+                    "fieldOne": "null TRANSFORMED",
+                    "fieldTwo": "Lalal TRANSFORMED"
+                }
+            ],
+            "returned": {
+                "fieldOne": "null TRANSFORMED",
+                "fieldTwo": "Lalal TRANSFORMED"
+            }
+        }
+    ]
+}
